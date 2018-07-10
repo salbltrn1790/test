@@ -1,0 +1,6 @@
+.picture{
+  background-image: url("file:///Users/salvadormurillo/Desktop/space/resources/images/space.jpg");
+  height: 550px;
+  width: 100%;
+  border: black 1px;
+}
